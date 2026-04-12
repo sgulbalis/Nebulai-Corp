@@ -1,85 +1,186 @@
-# Nebulai Documentation
+# Nebulai
 
-This directory contains the public documentation for the Nebulai platform.
+Nebulai is a human-centered Web3 + AI platform designed to unify the global workforce through trust, verifiable identity, intelligent coordination, and programmable value exchange.
 
-Nebulai is designed as a human-centered trust infrastructure for the future of work and innovation. The documents in this folder explain the public-facing concepts, architecture, governance principles, and strategic models that shape the platform.
-
-These materials are intended to provide clarity, thought leadership, and ecosystem alignment without exposing proprietary implementation details.
+It enables individuals, enterprises, universities, research institutions, and public sector organizations to collaborate securely and transparently using decentralized identity, smart contracts, AI-driven workflows, and emerging intellectual property frameworks.
 
 ---
 
-## Core Documents
+## Vision
 
-### Vision
-- [VISION.md](./VISION.md)  
-  Defines why Nebulai exists, the problems it addresses, and the broader future it is designed to support.
+Nebulai exists to create a fair, transparent, and deterministic future of work and innovation, where:
 
-### Trust Engine
-- [TRUST_ENGINE.md](./TRUST_ENGINE.md)  
-  Explains how Nebulai approaches trust as infrastructure through identity, contribution, agreements, and transparent value flow.
+- skills are verifiable
+- contributions are provable
+- intellectual property is programmable
+- compensation is automatic and fair
+- trust is built on evidence, not intermediaries
 
-### Architecture
-- [ARCHITECTURE.md](./ARCHITECTURE.md)  
-  Describes the high-level system architecture of Nebulai as a modular, layered coordination platform.
-
-### AI Ethics
-- [AI_ETHICS.md](./AI_ETHICS.md)  
-  Outlines the ethical and human-centered principles that govern how AI is used within Nebulai.
-
-### Identity
-- [IDENTITY.md](./IDENTITY.md)  
-  Describes Nebulai’s approach to portable identity, verifiable credentials, evidence-based reputation, and privacy-aware participation.
-
-### Talent Economy
-- [TALENT_ECONOMY.md](./TALENT_ECONOMY.md)  
-  Explains Nebulai’s broader model for connecting learning, contribution, mentorship, innovation, and value creation.
-
-### Smart Contracts
-- [SMART_CONTRACTS.md](./SMART_CONTRACTS.md)  
-  Defines the role of smart contracts and deterministic agreements in supporting accountable and transparent coordination.
-
-### Governance
-- [GOVERNANCE.md](./GOVERNANCE.md)  
-  Describes Nebulai’s governance framework for oversight, accountability, dispute resolution, and long-term trust.
-
-### IP Economy
-- [IP_ECONOMY.md](./IP_ECONOMY.md)  
-  Introduces Nebulai’s public framework for intellectual property as a dynamic and trusted component of the innovation economy.
-
-### Intelligence Synchronization
-- [INTELLIGENCE_SYNCHRONIZATION.md](./INTELLIGENCE_SYNCHRONIZATION.md)  
-  Presents Nebulai’s higher-level strategic framing as a system that synchronizes people, AI, knowledge, and incentives.
-
-### Whitepaper Overview
-- [WHITEPAPER.md](./WHITEPAPER.md)  
-  Provides a public-facing summary of the broader whitepaper direction and explains how the documentation set fits together.
+Nebulai bridges independent talent, enterprise teams, academic institutions, and governments into a unified, trusted ecosystem.
 
 ---
 
-## Public Documentation Boundary
+## What Nebulai Is
+
+Nebulai is a universal trust and coordination engine for the modern economy.
+
+It combines:
+
+- **Decentralized Identity (DID)** -> portable, user-owned identity
+- **Verifiable Credentials (VCs)** -> proof of skills and contributions
+- **Reputation Systems (SBT-style)** -> non-transferable, evidence-based trust
+- **Smart Contracts** -> deterministic, milestone-based agreements
+- **Agentic AI** -> intelligent matching, coordination, and evaluation
+- **Programmable IP & Value Exchange** -> enabling reuse, attribution, and future IP-native economic models
+
+Together, these form a system where work, intelligence, and value flow transparently and securely.
+
+---
+
+## The Synchronization of Intelligence
+
+Nebulai is designed to coordinate four core elements of the modern economy:
+
+- **People** -> talent, creators, validators, mentors
+- **AI Agents** -> intelligent execution and coordination
+- **Intellectual Property (IP)** -> knowledge, data, and innovation
+- **Capital** -> funding, payments, and incentives
+
+This creates a unified system where:
+
+> contribution, not credentials, determines opportunity  
+> and value flows to those who create it.
+
+---
+
+## Core Capabilities
+
+- trusted identity and credential verification
+- AI-powered talent matching and coordination
+- smart contract-based escrow and payments
+- transparent contribution tracking and reputation
+- privacy-preserving data sharing (selective disclosure / ZK)
+- reusable knowledge and attribution mechanisms
+- cross-organizational collaboration (enterprise, government, academia)
+
+---
+
+## Repository Scope
 
 This repository is public-facing and intended to share:
 
-- strategic vision
-- trust and governance principles
-- high-level architecture
-- public conceptual frameworks
-- ecosystem and thought leadership materials
+- vision and platform narrative
+- high-level architecture and system design
+- ethical AI and trust frameworks
+- identity and reputation models
+- intellectual property and economic concepts
+- whitepapers and thought leadership
 
-It does not disclose:
+### Not Included
 
-- proprietary implementation logic
-- private platform architecture
-- internal orchestration systems
-- detailed financial mechanisms
+Nebulai is not an open-source project.
+
+The following are proprietary and not included:
+
+- production smart contract implementations
+- AI agent orchestration systems
+- internal APIs and infrastructure
+- economic and pricing models
 - confidential enterprise integrations
+- detailed IP tokenization mechanisms
 
 ---
 
-## Purpose
+## Documentation
 
-The purpose of this documentation is to help partners, institutions, enterprises, researchers, and aligned communities understand Nebulai’s public direction.
+- [Vision](./docs/VISION.md)
+- [Trust Engine](./docs/TRUST_ENGINE.md)
+- [Architecture](./docs/ARCHITECTURE.md)
+- [AI Ethics](./docs/AI_ETHICS.md)
+- [Identity](./docs/IDENTITY.md)
+- [Talent Economy](./docs/TALENT_ECONOMY.md)
+- [Smart Contracts](./docs/SMART_CONTRACTS.md)
+- [Governance](./docs/GOVERNANCE.md)
+- [IP Economy](./docs/IP_ECONOMY.md)
+- [Intelligence Synchronization](./docs/INTELLIGENCE_SYNCHRONIZATION.md)
+- [Whitepaper Overview](./docs/WHITEPAPER.md)
+- [Repository Scope](./docs/REPOSITORY_SCOPE.md)
+- [Documentation Index](./docs/README.md)
 
-It is not intended to function as a full technical implementation repository.
+---
 
-For the broader platform overview, refer to the main repository [README](../README.md).
+## Use Cases
+
+Nebulai supports high-impact domains:
+
+- AI and cybersecurity collaboration
+- enterprise and government project execution
+- university and workforce development programs
+- decentralized science (DeSci) and research ecosystems
+- public sector innovation and infrastructure
+- AI data and model contribution ecosystems
+
+---
+
+## Design Principles
+
+- human-centered systems
+- proof over promise
+- privacy by design
+- open standards (W3C DIDs, VCs)
+- ethical and explainable AI
+- continuous improvement (Agile + Kaizen)
+- collective intelligence (Supermind-inspired)
+
+---
+
+## Collaboration
+
+Nebulai is open to collaboration with:
+
+- universities and research institutions
+- enterprise partners
+- public sector organizations
+- ethical AI and Web3 innovators
+
+---
+
+## Intellectual Property
+
+All Nebulai core technology, architecture implementations, and platform components are proprietary.
+
+This repository is intended for:
+
+- transparency
+- alignment
+- collaboration
+- thought leadership
+
+—not replication.
+
+---
+
+## Contact
+
+**Stefano Gulbalis**  
+Chief Innovation Officer, Nebulai  
+
+Primary: stefano@nebulai.com  
+Secondary: sgulbalis@gmail.com
+
+---
+
+## Positioning
+
+Nebulai is not just a platform.
+
+It is a foundation for:
+
+- trusted work
+- programmable intellectual property
+- intelligent coordination
+- ethical value exchange
+
+in a decentralized, AI-driven world.
+
+Nebulai is being designed as universal trust infrastructure for the future of work and the future of innovation.
