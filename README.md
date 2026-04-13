@@ -1,67 +1,77 @@
 # Nebulai
 
-Nebulai is a human-centered Web3 + AI platform designed to unify the global workforce through trust, verifiable identity, intelligent coordination, and programmable value exchange.
+Human progress has always depended on two forces: people and ideas.
 
-It enables individuals, enterprises, universities, research institutions, and public sector organizations to collaborate securely and transparently using decentralized identity, smart contracts, AI-driven workflows, and emerging intellectual property frameworks.
+Yet in the modern economy, both remain constrained by systems that were never designed to honor human dignity, recognize real contribution, or allow innovation to flow fairly. Talent is fragmented across platforms and institutions. Knowledge is trapped in silos. Trust is assumed where it should be engineered. Too often, the people who create value are the last to benefit from it.
+
+Nebulai exists to help change that.
+
+Nebulai is a human-centered trust infrastructure for the future of work and innovation — designed to align identity, contribution, intelligence, and value in a system where people are seen more clearly, ideas can move more freely, and opportunity is shaped by what individuals truly create rather than what legacy systems permit.
+
+It is built on a simple belief:
+
+**humanity advances when trust is portable, contribution is visible, and value flows back to those who create it.**
 
 ---
 
 ## Vision
 
-Nebulai exists to create a fair, transparent, and deterministic future of work and innovation, where:
+Nebulai exists to support a fair, transparent, and human-centered future of work and innovation, where:
 
 - skills are verifiable
-- contributions are provable
-- intellectual property is programmable
-- compensation is automatic and fair
-- trust is built on evidence, not intermediaries
+- contributions are visible
+- trust is built on evidence
+- intellectual property is more attributable and reusable
+- compensation is aligned with real participation
+- innovation can move across boundaries with greater dignity and less friction
 
-Nebulai bridges independent talent, enterprise teams, academic institutions, and governments into a unified, trusted ecosystem.
+Nebulai bridges independent talent, enterprises, universities, research institutions, and public sector organizations into a more trusted and coordinated ecosystem.
 
 ---
 
 ## What Nebulai Is
 
-Nebulai is a universal trust and coordination engine for the modern economy.
+Nebulai is a universal trust and coordination framework for the modern economy.
 
-It combines:
+It brings together:
 
-- **Decentralized Identity (DID)** -> portable, user-owned identity
-- **Verifiable Credentials (VCs)** -> proof of skills and contributions
-- **Reputation Systems (SBT-style)** -> non-transferable, evidence-based trust
-- **Smart Contracts** -> deterministic, milestone-based agreements
-- **Agentic AI** -> intelligent matching, coordination, and evaluation
-- **Programmable IP & Value Exchange** -> enabling reuse, attribution, and future IP-native economic models
+- **Decentralized Identity (DID)** -> portable, participant-centered identity
+- **Verifiable Credentials (VCs)** -> trusted proof of skills, roles, and contribution
+- **Evidence-Based Reputation** -> trust grounded in validated outcomes rather than informal claims
+- **Smart Contracts** -> structured, milestone-based agreements with clearer accountability
+- **Human-Centered AI** -> intelligent coordination that supports people without replacing agency
+- **Programmable IP & Value Alignment** -> a public framework for connecting knowledge, attribution, reuse, and long-term value creation
 
-Together, these form a system where work, intelligence, and value flow transparently and securely.
+Together, these form a system in which trust, work, intelligence, and value can operate with greater transparency, portability, and fairness.
 
 ---
 
 ## The Synchronization of Intelligence
 
-Nebulai is designed to coordinate four core elements of the modern economy:
+Nebulai is designed to coordinate four forces that have historically remained disconnected:
 
-- **People** -> talent, creators, validators, mentors
-- **AI Agents** -> intelligent execution and coordination
-- **Intellectual Property (IP)** -> knowledge, data, and innovation
-- **Capital** -> funding, payments, and incentives
+- **People** -> creators, contributors, validators, mentors, institutions
+- **AI Systems** -> intelligent tools that support coordination, matching, and insight
+- **Knowledge & Intellectual Property** -> ideas, research, methods, and reusable innovation assets
+- **Capital & Incentives** -> funding, rewards, and value flows aligned with trusted contribution
 
-This creates a unified system where:
+This creates a public framework for what Nebulai describes as the **Synchronization of Intelligence**:
 
-> contribution, not credentials, determines opportunity  
-> and value flows to those who create it.
+a model in which human capability, institutional knowledge, intelligent systems, and value exchange can work together as part of one trusted innovation ecosystem.
 
 ---
 
 ## Core Capabilities
 
+Nebulai is designed to support:
+
 - trusted identity and credential verification
-- AI-powered talent matching and coordination
-- smart contract-based escrow and payments
-- transparent contribution tracking and reputation
-- privacy-preserving data sharing (selective disclosure / ZK)
-- reusable knowledge and attribution mechanisms
-- cross-organizational collaboration (enterprise, government, academia)
+- clearer visibility into contribution and role participation
+- accountable, milestone-based coordination
+- AI-assisted matching and workflow support
+- more transparent value exchange
+- stronger provenance and attribution for knowledge and intellectual contribution
+- cross-organizational collaboration across enterprise, academia, research, public sector, and independent networks
 
 ---
 
@@ -72,22 +82,24 @@ This repository is public-facing and intended to share:
 - vision and platform narrative
 - high-level architecture and system design
 - ethical AI and trust frameworks
-- identity and reputation models
-- intellectual property and economic concepts
-- whitepapers and thought leadership
+- identity and contribution models
+- governance principles
+- intellectual property and innovation concepts
+- whitepaper summaries and thought leadership
 
 ### Not Included
 
-Nebulai is not an open-source project.
+Nebulai is **not** an open-source implementation repository.
 
-The following are proprietary and not included:
+The following remain proprietary and are intentionally not included:
 
 - production smart contract implementations
-- AI agent orchestration systems
+- AI orchestration systems
 - internal APIs and infrastructure
 - economic and pricing models
-- confidential enterprise integrations
-- detailed IP tokenization mechanisms
+- detailed enforcement mechanisms
+- confidential partner or enterprise integrations
+- private implementation architecture
 
 ---
 
@@ -103,7 +115,10 @@ The following are proprietary and not included:
 - [Governance](./docs/GOVERNANCE.md)
 - [IP Economy](./docs/IP_ECONOMY.md)
 - [Intelligence Synchronization](./docs/INTELLIGENCE_SYNCHRONIZATION.md)
+- [Use Cases](./docs/USE_CASES.md)
+- [Roadmap](./docs/ROADMAP.md)
 - [Whitepaper Overview](./docs/WHITEPAPER.md)
+- [FAQ](./docs/FAQ.md)
 - [Repository Scope](./docs/REPOSITORY_SCOPE.md)
 - [Documentation Index](./docs/README.md)
 
@@ -111,76 +126,91 @@ The following are proprietary and not included:
 
 ## Use Cases
 
-Nebulai supports high-impact domains:
+Nebulai is relevant to high-value environments where trust, contribution, and coordination matter deeply, including:
 
-- AI and cybersecurity collaboration
-- enterprise and government project execution
-- university and workforce development programs
-- decentralized science (DeSci) and research ecosystems
-- public sector innovation and infrastructure
-- AI data and model contribution ecosystems
+- AI and data contribution ecosystems
+- decentralized science and research collaboration
+- enterprise innovation networks
+- university and workforce development systems
+- public sector and mission-driven coordination
+- cross-border independent work
+- knowledge reuse and attribution ecosystems
 
 ---
 
 ## Design Principles
 
+Nebulai is guided by principles that are both technical and human:
+
 - human-centered systems
 - proof over promise
 - privacy by design
-- open standards (W3C DIDs, VCs)
+- dignity and economic fairness
+- open standards and interoperability
+- accountable governance
 - ethical and explainable AI
-- continuous improvement (Agile + Kaizen)
-- collective intelligence (Supermind-inspired)
+- contribution-based trust
+- long-term ecosystem value creation
+
+---
+
+## Why This Matters
+
+The future of work is not only about automation.  
+It is about whether human beings will retain ownership of their identity, their contribution, and the value they help create.
+
+The future of innovation is not only about speed.  
+It is about whether ideas can move through society in ways that are more fair, more trusted, and more aligned with the people who make discovery possible.
+
+Nebulai is built for that future.
 
 ---
 
 ## Collaboration
 
-Nebulai is open to collaboration with:
+Nebulai is open to aligned dialogue and collaboration with:
 
 - universities and research institutions
-- enterprise partners
+- enterprise and innovation partners
 - public sector organizations
-- ethical AI and Web3 innovators
+- ethical AI communities
+- Web3 and decentralized identity practitioners
+- mission-aligned ecosystem builders
 
 ---
 
 ## Intellectual Property
 
-All Nebulai core technology, architecture implementations, and platform components are proprietary.
+All Nebulai core technology, implementation architecture, and platform mechanics are proprietary.
 
 This repository is intended for:
 
-- transparency
-- alignment
-- collaboration
+- public understanding
+- strategic alignment
 - thought leadership
+- ecosystem communication
 
-—not replication.
+It is not intended as a release of internal implementation logic.
 
 ---
 
 ## Contact
 
 **Stefano Gulbalis**  
-Chief Innovation Officer, Nebulai  
+Chief Innovation Officer, Nebulai
 
 Primary: stefano@nebulai.com  
-Secondary: sgulbalis@gmail.com
+Secondary: sgulbalis@gmail.com  
+Website: www.nebulai.com
 
 ---
 
 ## Positioning
 
-Nebulai is not just a platform.
+Nebulai is not simply a product, a marketplace, or a protocol.
 
-It is a foundation for:
+It is a public-facing vision for trust infrastructure that can help humanity coordinate work, intelligence, knowledge, and value more fairly.
 
-- trusted work
-- programmable intellectual property
-- intelligent coordination
-- ethical value exchange
+Its purpose is not only to make systems more efficient.
 
-in a decentralized, AI-driven world.
-
-Nebulai is being designed as universal trust infrastructure for the future of work and the future of innovation.
+Its purpose is to help make them more human.
