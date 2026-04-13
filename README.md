@@ -198,16 +198,14 @@ It is not intended as a release of internal implementation logic.
 
 **Stefano Gulbalis**  
 Chief Innovation Officer, Nebulai
-
 Primary: stefano@nebulai.com  
 Secondary: sgulbalis@gmail.com  
 
 
 **Renatto Garro** 
 CTO/COO, Nebulai
-
 Primary: renatto@nebulai.com  
-Secondary: sgulbalis@gmail.com 
+
 
 **Website: www.nebulai.com**
 
