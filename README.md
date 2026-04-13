@@ -196,8 +196,7 @@ It is not intended as a release of internal implementation logic.
 
 ## Contact
 
-**Stefano Gulbalis**  
-Chief Innovation Officer, Nebulai
+**Stefano Gulbalis**  Chief Innovation Officer, Nebulai
 Primary: stefano@nebulai.com  
 Secondary: sgulbalis@gmail.com  
 
