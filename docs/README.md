@@ -1,69 +1,77 @@
-# Nebulai Documentation Index
+# Nebulai Documentation
 
-This directory contains the core documentation that defines Nebulai’s architecture, trust framework, and system design.
+This directory contains the core conceptual, architectural, and governance documentation for Nebulai.
 
-These documents expand on the concepts introduced in the whitepapers and provide a structured view of how Nebulai operates as a human-centered trust infrastructure.
-
----
-
-## Start Here
-
-If you are new to Nebulai, we recommend beginning with:
-
-1. [Vision](./VISION.md)
-2. [Trust Engine](./TRUST_ENGINE.md)
-3. [Architecture](./ARCHITECTURE.md)
+These documents collectively describe the system design, trust model, and coordination framework underlying Nebulai’s vision for the future of work and innovation.
 
 ---
 
-## Core System
+## Core Concepts
 
-- [Identity](./IDENTITY.md)  
-- [Talent Economy](./TALENT_ECONOMY.md)  
-- [IP Economy](./IP_ECONOMY.md)  
-- [Smart Contracts](./SMART_CONTRACTS.md)  
-- [Intelligence Synchronization](./INTELLIGENCE_SYNCHRONIZATION.md)  
+- [Vision](./VISION.md)
+- [Intelligence Synchronization](./INTELLIGENCE_SYNCHRONIZATION.md)
+- [Trust Engine](./TRUST_ENGINE.md)
+
+---
+
+## System Architecture
+
+- [Architecture](./ARCHITECTURE.md)
+- [Smart Contracts](./SMART_CONTRACTS.md)
+- [Identity](./IDENTITY.md)
+
+---
+
+## Economic & Value Models
+
+- [Talent Economy](./TALENT_ECONOMY.md)
+- [IP Economy](./IP_ECONOMY.md)
 
 ---
 
 ## Governance & Ethics
 
-- [AI Ethics](./AI_ETHICS.md)  
-- [Governance](./GOVERNANCE.md)  
+- [Governance](./GOVERNANCE.md)
+- [AI Ethics](./AI_ETHICS.md)
 
 ---
 
-## System Application
+## Practical Applications
 
-- [Use Cases](./USE_CASES.md)  
-- [Roadmap](./ROADMAP.md)  
+- [Use Cases](./USE_CASES.md)
+- [Roadmap](./ROADMAP.md)
 
 ---
 
-## Supporting Material
+## Supporting
 
-- [Whitepaper Overview](./WHITEPAPER.md)  
-- [FAQ](./FAQ.md)  
-- [Repository Scope](./REPOSITORY_SCOPE.md)  
+- [Whitepaper Overview](./WHITEPAPER.md)
+- [FAQ](./FAQ.md)
+- [Repository Scope](./REPOSITORY_SCOPE.md)
+
+---
+
+## How to Navigate
+
+Recommended reading path:
+
+1. Vision  
+2. Intelligence Synchronization  
+3. Trust Engine  
+4. Architecture  
+5. Identity + Smart Contracts  
+6. Governance + AI Ethics  
+7. Use Cases  
 
 ---
 
 ## Purpose
 
-This documentation is intended to:
+This documentation is intended to provide:
 
-- provide clarity on Nebulai’s system design  
-- support technical and strategic understanding  
-- enable alignment across partners, institutions, and stakeholders  
+- conceptual clarity  
+- architectural understanding  
+- governance transparency  
+- alignment for partners, institutions, and contributors  
 
-It complements the whitepapers and does not expose proprietary implementation details.
-
----
-
-## Relationship to Whitepapers
-
-The whitepapers define **why Nebulai exists and where it is going**.
-
-The documentation defines **how the system is structured conceptually**.
-
-Together, they form the complete public representation of Nebulai.
+It reflects Nebulai’s approach to building a human-centered trust infrastructure for the future of work and innovation.
