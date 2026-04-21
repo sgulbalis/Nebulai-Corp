@@ -9,9 +9,9 @@ These documents represent the progression from early foundational ideas to a bro
 ## Featured Paper
 
 ### The Synchronization of Intelligence
-[The-Synchronization-of-Intelligence](./The-Synchronization-of-Intelligence.pdf)
+[Read the paper](./00_The-Synchronization-of-Intelligence.pdf)
 
-This is the primary paper for understanding Nebulai today.
+This is the primary paper for understanding Nebulai today and the most complete articulation of its current vision.
 
 It introduces the concept of synchronizing:
 - people
@@ -20,8 +20,6 @@ It introduces the concept of synchronizing:
 - capital and incentives
 
 into a unified, trust-based coordination framework.
-
-This document reflects Nebulai’s current strategic direction.
 
 ---
 
@@ -34,17 +32,17 @@ Explores Nebulai as a platform connecting talent, organizations, and opportuniti
 
 ---
 
-### Intelligent Solutions & Talent Marketplace
-[View Paper](./Nebulai_Intelligent_Solutions_and_Talent_Marketplace.pdf)
-
-Introduces an AI-powered marketplace model connecting solutions, talent, and intelligent agents.
-
----
-
 ### AI Frontier — University Adaptation
 [View Paper](./AI_Frontier_University_Adaptation.pdf)
 
 Focuses on the transformation of higher education in the age of AI and the evolving role of institutions in lifelong learning.
+
+---
+
+### Intelligent Solutions & Talent Marketplace
+[View Paper](./Nebulai_Intelligent_Solutions_and_Talent_Marketplace.pdf)
+
+Introduces an AI-powered marketplace model connecting solutions, talent, and intelligent agents.
 
 ---
 
@@ -72,7 +70,7 @@ This is the soul of Nebulai.
 Recommended order:
 
 1. The Synchronization of Intelligence (current vision)
-2. Unifying the Global Workforce (platform framing)
+2. Nebulai — Unifying the Global Workforce (platform framing)
 3. AI Frontier — University Adaptation (institutional impact)
 4. Intelligent Solutions & Talent Marketplace (early system model)
 5. A Company for Good (origin and philosophy)
