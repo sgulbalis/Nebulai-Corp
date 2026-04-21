@@ -12,7 +12,7 @@ If you read one document, start here:
 
 A human-centered framework for aligning people, AI, intellectual property, and capital into a unified system for the global innovation economy.
 
-👉 [Read the paper](./assets/whitepapers/The-Synchronization-of-Intelligence.pdf)
+👉 [Read the paper](./assets/whitepapers/00_The-Synchronization-of-Intelligence.pdf)
 
 ---
 
@@ -72,11 +72,11 @@ Together, these form a system in which trust, work, intelligence, and value oper
 
 Nebulai extends beyond identity, trust, and coordination into the interaction layer between humans and AI systems.
 
-The **Agent-to-Human (A2H) Protocol** introduces a structured framework where humans are not external to AI systems, but are integrated as verifiable, addressable participants within them.
+The **Agent-to-Human (A2H) Protocol** introduces a structured framework where humans are integrated as verifiable, addressable participants within AI-native systems.
 
-- AI agents can discover and interact with human expertise as part of their workflow  
-- Human participation becomes structured, auditable, and economically aligned  
-- Decisions, approvals, and creative input are incorporated into intelligent systems with traceability  
+- AI agents can discover and interact with human expertise  
+- Human participation becomes auditable and economically aligned  
+- Decisions and creative input are traceable and verifiable  
 
 👉 Explore:  
 https://nebulai.app/a2h-protocol  
@@ -86,7 +86,7 @@ This work represents a precursor to:
 
 **Human MCP (Human Model Context Protocol)**
 
-— a future standard for integrating human identity, capability, and judgment directly into AI-native systems.
+— a future standard for integrating human identity, capability, and judgment into AI-native coordination systems.
 
 ---
 
@@ -94,14 +94,12 @@ This work represents a precursor to:
 
 Nebulai is designed to coordinate four forces that have historically remained disconnected:
 
-- **People** → creators, contributors, validators, mentors, institutions  
-- **AI Systems** → intelligent coordination, matching, and execution  
-- **Knowledge & Intellectual Property** → reusable and attributable innovation assets  
-- **Capital & Incentives** → funding aligned with verified contribution  
+- **People**  
+- **AI Systems**  
+- **Knowledge & Intellectual Property**  
+- **Capital & Incentives**  
 
-This creates a public framework for what Nebulai defines as the **Synchronization of Intelligence**:
-
-A model in which human capability, institutional knowledge, intelligent systems, and value exchange operate as a unified, trust-based ecosystem.
+This creates a unified, trust-based coordination framework where contribution drives value and opportunity.
 
 ---
 
@@ -110,50 +108,23 @@ A model in which human capability, institutional knowledge, intelligent systems,
 ### Primary Paper
 
 - **The Synchronization of Intelligence**  
-  → Current vision and architecture  
-  👉 ./assets/whitepapers/The-Synchronization-of-Intelligence.pdf  
+  👉 [Read](./assets/whitepapers/00_The-Synchronization-of-Intelligence.pdf)
 
 ---
 
 ### Supporting Papers
 
-- **Nebulai — Unifying the Global Workforce**  
-- **AI Frontier — University Adaptation**  
-- **Intelligent Solutions & Talent Marketplace**  
+- Nebulai — Unifying the Global Workforce  
+- AI Frontier — University Adaptation  
+- Intelligent Solutions & Talent Marketplace  
 
 ---
 
 ### Foundational Document
 
-- **A Company for Good (Founders Paper)**  
+- A Company for Good (Founders Paper)
 
-This document is intentionally preserved in its original form, including imperfections, as it represents the authentic origin and philosophical foundation of Nebulai.
-
----
-
-### Protocols & Emerging Standards
-
-- **A2H (Agent-to-Human Protocol)**  
-  → Human-AI coordination layer enabling structured collaboration between agents and people  
-
-  https://nebulai.app/a2h-protocol  
-  https://nebulai.app/a2h-technical-paper  
-
-This work represents the evolution toward Human MCP — extending model context beyond data and tools into human expertise and decision-making.
-
----
-
-## Core Capabilities
-
-Nebulai supports:
-
-- trusted identity and credential verification  
-- visibility into contribution and participation  
-- accountable, milestone-based coordination  
-- AI-assisted matching and execution  
-- transparent value exchange  
-- provenance and attribution of knowledge  
-- cross-organizational collaboration  
+Preserved in its original form as the authentic origin and philosophical foundation of Nebulai.
 
 ---
 
@@ -174,21 +145,19 @@ Nebulai supports:
 - [Whitepaper Overview](./docs/WHITEPAPER.md)  
 - [FAQ](./docs/FAQ.md)  
 - [Repository Scope](./docs/REPOSITORY_SCOPE.md)  
-- [Documentation Index](./docs/README.md)  
+- [Documentation Index](./docs/)  
 
 ---
 
 ## Use Cases
 
-Nebulai applies to environments where trust and contribution matter deeply:
-
-- AI and data ecosystems  
-- decentralized science and research  
-- enterprise innovation networks  
+- AI ecosystems  
+- decentralized science  
+- enterprise innovation  
 - universities and workforce systems  
 - public sector coordination  
 - global independent work  
-- knowledge reuse and attribution  
+- knowledge attribution  
 
 ---
 
@@ -197,31 +166,28 @@ Nebulai applies to environments where trust and contribution matter deeply:
 - human-centered systems  
 - proof over promise  
 - privacy by design  
-- dignity and economic fairness  
-- interoperability and open standards  
-- accountable governance  
-- ethical and explainable AI  
+- fairness and dignity  
+- interoperability  
+- ethical AI  
 - contribution-based trust  
-- long-term ecosystem value creation  
 
 ---
 
 ## Repository Scope
 
-This repository is public-facing and intended to share:
+This repository is public-facing and shares:
 
 - vision and positioning  
-- architecture and system design  
-- governance and trust models  
-- identity and contribution frameworks  
+- architecture and frameworks  
+- governance and identity models  
 - whitepapers and thought leadership  
 
 ### Not Included
 
 - proprietary smart contracts  
 - AI orchestration systems  
-- internal APIs and infrastructure  
-- economic or pricing models  
+- internal APIs  
+- economic models  
 - enterprise integrations  
 
 ---
@@ -229,36 +195,9 @@ This repository is public-facing and intended to share:
 ## Why This Matters
 
 The future of work is not only about automation.  
-It is about whether individuals retain ownership of their identity, their contribution, and the value they create.
+It is about ownership of identity, contribution, and value.
 
-The future of innovation is not only about speed.  
-It is about whether ideas move through society in ways that are fair, trusted, and aligned with those who create them.
-
-Nebulai is built for that future.
-
----
-
-## Collaboration
-
-Nebulai is open to collaboration with:
-
-- universities and research institutions  
-- enterprise and innovation partners  
-- public sector organizations  
-- ethical AI communities  
-- Web3 and identity ecosystems  
-- mission-aligned builders  
-
----
-
-## Intellectual Property
-
-All Nebulai core technology and implementation architecture are proprietary.
-
-This repository exists for:
-- public understanding  
-- strategic alignment  
-- ecosystem communication  
+Nebulai is built to ensure that value flows back to those who create it.
 
 ---
 
@@ -278,10 +217,10 @@ renatto@nebulai.com
 
 ## Positioning
 
-Nebulai is not simply a product, a marketplace, or a protocol.
+Nebulai is not a product, marketplace, or protocol.
 
 It is trust infrastructure for coordinating work, intelligence, knowledge, and value.
 
-Its purpose is not only to make systems more efficient.
+Its purpose is not only efficiency.
 
-Its purpose is to help make them more human.
+Its purpose is to make systems more human centered.
